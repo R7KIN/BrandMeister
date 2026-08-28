@@ -1,2 +1,4 @@
 # BrandMeister
 Все что связано с BrandMeister Network
+
+**bm_top3_v2.sh** - скрипт для проверки быстродействия (скорости ответа) серверов brandmeister.network. Работоспособность проверена на 6.12.101+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.101-1 (2026-08-05) x86_64 GNU/Linux
