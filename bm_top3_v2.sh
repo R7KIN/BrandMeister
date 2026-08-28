@@ -2,7 +2,7 @@
 
 # Определение самых быстрых для QTH серверов Brandmeister
 # https://brandmeister.network/#/masters
-# Version 2.20260828 by R7KIN 
+# Version 2.20260828 by R7KIN
 
 # Список мастер-серверов BrandMeister в формате "домен|страна"
 servers=(
