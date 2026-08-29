@@ -16,3 +16,4 @@
 
 <img width="1253" height="512" alt="Screenshot 2026-08-28 170602" src="https://github.com/user-attachments/assets/c37b47ee-362f-4b82-b07b-08e88727cf30" />
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=R7KIN.BrandMeister)
